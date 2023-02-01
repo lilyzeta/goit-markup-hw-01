@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap");
+:root {
+  --accentbright: #2196f3;
+  --mainbright: #ffffff;
+  --mainmid: #757575;
+  --maindark: #212121;
+  --background: #e5e5e5;
+  --footercolor: #2f303a;
+  --accentbackground: #f5f4fa;
+}
+.logo {
+  color: var(--accentbright);
+}
+
+body {
+}
